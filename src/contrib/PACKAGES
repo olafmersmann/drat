@@ -1,3 +1,10 @@
+Package: desire
+Version: 1.0-7.6
+Depends: R (>= 3.0.0), loglognorm
+License: GPL-2
+MD5sum: c5a7dda02ff7591c603625c24a796a9c
+NeedsCompilation: yes
+
 Package: emoa
 Version: 0.5-1.6
 Suggests: testthat
