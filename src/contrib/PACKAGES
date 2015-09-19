@@ -1,3 +1,10 @@
+Package: emoa
+Version: 0.5-1.6
+Suggests: testthat
+License: GPL-2
+MD5sum: 8b09279d2510672fc0006b4900ef9c63
+NeedsCompilation: yes
+
 Package: microbenchmark
 Version: 1.4-2.9
 Depends: microbenchmarkCore
