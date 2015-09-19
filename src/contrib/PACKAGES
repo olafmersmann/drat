@@ -19,6 +19,14 @@ License: BSD_2_clause + file LICENSE
 MD5sum: 57fb8eddebe5f715de69cb3adde5c95a
 NeedsCompilation: yes
 
+Package: sendmailR
+Version: 1.2-1.4
+Depends: R (>= 3.0.0)
+Imports: base64enc
+License: GPL-2
+MD5sum: eb16bfdfd2171ee08207dc876c0bcc31
+NeedsCompilation: no
+
 Package: truncnorm
 Version: 1.0-7.13
 Depends: R (>= 2.15.0)
