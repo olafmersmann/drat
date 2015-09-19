@@ -24,7 +24,7 @@ Version: 1.2-1.4
 Depends: R (>= 3.0.0)
 Imports: base64enc
 License: GPL-2
-MD5sum: eb16bfdfd2171ee08207dc876c0bcc31
+MD5sum: 490566db920499c7dfc85afd3f8d72aa
 NeedsCompilation: no
 
 Package: truncnorm
