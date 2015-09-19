@@ -10,7 +10,7 @@ Version: 1.4-2.10
 Depends: microbenchmarkCore
 Imports: graphics, ggplot2, multcomp
 License: BSD_2_clause + file LICENSE
-MD5sum: 0c8a1365dc88a358509c161ca51e5527
+MD5sum: 30626ac8270baddea8177eca0c63d675
 NeedsCompilation: no
 
 Package: microbenchmarkCore
