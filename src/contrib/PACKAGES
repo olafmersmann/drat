@@ -5,6 +5,13 @@ License: GPL-2
 MD5sum: 8b09279d2510672fc0006b4900ef9c63
 NeedsCompilation: yes
 
+Package: fftw
+Version: 1.0-2.9
+Depends: R (>= 3.0.0)
+License: GPL-2
+MD5sum: af241f62d8772e2c238d9195d6339a91
+NeedsCompilation: yes
+
 Package: microbenchmark
 Version: 1.4-2.10
 Depends: microbenchmarkCore
